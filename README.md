@@ -4,7 +4,7 @@
 
 Fig. 4 illustrates the overall structure of the system, from video input to classification output.
 
-![image](./Figure/Figure04.jpg)
+![image](https://github.com/mahoangnhatphi/suspicious-human-detection-with-LRCN-model/blob/main/Figure/Figure04.jpg?raw=true)
 
 The system architecture follows a standard flow:
 - Video Processing: The CCTV footage is broken down into individual frames. These frames are resized and normalized to provide consistent input to the model.
@@ -13,4 +13,4 @@ The system architecture follows a standard flow:
 
 The data used in this paper includes the following files:
 
-**Dataset:** This contains the KTH and UCF-Crime datasets for detecting suspicious actions, like theft, in public spaces, and includes real-world surveillance footage of various types of criminal activities as well as normal actions..
+- **Dataset:** This contains the KTH and UCF-Crime datasets for detecting suspicious actions, like theft, in public spaces, and includes real-world surveillance footage of various types of criminal activities as well as normal actions..
