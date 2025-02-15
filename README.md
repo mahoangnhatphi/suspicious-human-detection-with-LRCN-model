@@ -1,4 +1,3 @@
-# International Conference on Intelligent Information Technology
 ## "ENHANCED REAL-TIME SURVEILLANCE WITH LRCN: AUTOMATING SUSPICIOUS ACTIVITY DETECTION FOR SCALABLE SECURITY SOLUTIONS IN VIETNAM"
 
 Fig. 4 illustrates the overall structure of the system, from video input to classification output.
